@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://viniciusoft.github.io
+title: DesLab
+tagline: Developers Laboratory
+description: Code is awsome!
+paginate: 5
